@@ -1,5 +1,5 @@
 # Machine Test for MERN Stack Developer at CS Tech
-
+Made by Raunak Agarwal
 A real estate management system built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for managing real estate agents and distributing leads among them.
 
 ## Project Overview
@@ -216,49 +216,6 @@ Sarah Johnson,8765432109,Looking for villa in city center
 - Data distribution algorithm
 - Error handling and logging
 
-## Troubleshooting
 
-1. **Database Connection Issues**
 
-   - Ensure MongoDB is running
-   - Check MONGODB_URI in .env file
 
-2. **Authentication Issues**
-
-   - Clear browser localStorage
-   - Ensure JWT_SECRET is set in .env
-   - Check token expiration
-
-3. **File Upload Issues**
-   - Verify file format (CSV/XLSX/XLS)
-   - Check file size (max 5MB)
-   - Ensure required columns are present
-
-## Future Improvements
-
-1. **Features to Add**
-
-   - Agent login portal
-   - Lead status tracking
-   - Performance analytics
-   - Email notifications
-   - Bulk operations
-
-2. **Technical Improvements**
-   - Unit and integration tests
-   - Docker containerization
-   - CI/CD pipeline
-   - API documentation with Swagger
-   - Real-time updates with WebSocket
-
-## License
-
-[MIT License](LICENSE)
-
-## Author
-
-[Your Name]
-
-- GitHub: [your-github]
-- LinkedIn: [your-linkedin]
-#
